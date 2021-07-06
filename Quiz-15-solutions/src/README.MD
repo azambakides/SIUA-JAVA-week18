@@ -21,5 +21,7 @@ MAPS:
 
 GOOD LUCK
 
-Good luck and good night.
 
+Good luck and good night.
+Good night and good luck!
+Time to sleep!
